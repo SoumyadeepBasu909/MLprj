@@ -1,1 +1,1 @@
-# MLprj
+Created an Attendance Prediction Model for interview. Absenteeism from work is a big problem. In this project, we propose Deep Learning algorithms that can predict the behavior of employees towards punctuality using Python and Machine Learning
